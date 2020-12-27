@@ -13,8 +13,8 @@ Second, there is another window where the shop keeper can make some updates/ cha
 
 Software & Libraries:
 
-1.JavaFX SDK 11.0.2 ( https://openjfx.io/)
-2.Scene Builder 11.0.0 (https://gluonhq.com/products/scene-builder/)
+1. JavaFX SDK 11.0.2 ( https://openjfx.io/)
+2. Scene Builder 11.0.0 (https://gluonhq.com/products/scene-builder/)
 IntelliJ IDEA ( https://www.jetbrains.com/idea/
 Instruction to set up: (https://openjfx.io/openjfx/docs/#introduction)
 For VM options :--module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml ;${PATH_TO_JAVAFX} - path to JavaFX library
